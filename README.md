@@ -1,6 +1,6 @@
 Obtendo uma Pontuação de 0,8 na Competição KAGGLE TITANIC
 
-![alt text](https://wallpaperstock.net/awesome-titanic_wallpapers_50870_852x480.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGg1RhFxYx-s7lX2ybsXRFLfoUtKbRwUa9hOgGCucXR1PDBZ9DEg&s)
 
 
 # O que é o Kaggle?
